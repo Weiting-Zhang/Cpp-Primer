@@ -6,9 +6,9 @@
 - Have you discovered incorrect information? Submit.
 ## Contents
 
-- Chapter 1. Getting Started
+- Chapter 1. [Getting Starte](/ch01)
 - Part I: The Basics
-  - Chapter 2. Variables and Basic Types
+  - Chapter 2. [Variables and Basic Types](/ch02)
   - Chapter 3. Strings, Vectors, and Arrays
   - Chapter 4. Expressions
   - Chapter 5. Statements
